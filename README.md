@@ -5,7 +5,7 @@ Exemplo de Web API em .NET 3 com JWT (Json Web Token), seguindo tutorial do site
 
 #1 - Faça o download / clone do projeto.
 
-#2 - Abra a pasta Shop not seu terminal, execute o comando dotnet watch run. Aguarde a restauração dos pacotes.
+#2 - Abra a pasta Shop no seu terminal, execute o comando dotnet watch run. Aguarde a restauração dos pacotes.
 
 #3 - Acesse a rota https: //localhost:5001/v1/account/login para geração do token de acesso, fique atento ao número de porta, o seu pode estar diferente.
 
