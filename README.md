@@ -1,5 +1,5 @@
 # Web API .NET3.1 com JWT (Json Web Token )
-Exemplo de Web API em .NET 3 com JWT (Json Web Token), seguindo tutorial do site André Baltieri. https://balta.io/blog/aspnetcore-3-autenticacao-autorizacao-bearer-jwt
+Exemplo de Web API em .NET 3 com JWT (Json Web Token), seguindo tutorial do site André Baltieri. https://balta.io/blog/aspnetcore-3-autenticacao-autorizacao-bearer-jwt.
 
 #0 - É necessário ter o dotnet SDK 3.0 ou superior instalado, Visual Studio ou VSCode com a Extensão C# instalada.
 #1 - Faça o download / clone do projeto.
